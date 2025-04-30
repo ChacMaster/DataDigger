@@ -8,6 +8,9 @@ A dynamic, open source dataviewer for your Progress / OpenEdge databases
 - Extract it to its own folder
 - Double-click DataDigger.pf
 
+If you cannot compile due to version restrictions, the .r files can be downloaded separately. 
+Unzip the file for your Progress version in the same folder as the sources. 
+
 More info on the [wiki](https://github.com/patrickTingen/DataDigger/wiki/HowTo-InstallDataDigger)
 
 - For general info consult the [DataDigger blog](<https://datadigger.wordpress.com>)
